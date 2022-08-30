@@ -1,8 +1,8 @@
 # TYL-DS-Nikhita
 Assignment Repo for TYL-DS-COURSE
+Assignment-checkpoint:
+contains answers for assignment I,II(1) and III(Heirarchical Clustering)
 
-This repository contains a python notebook containing assignments 1,2 and 3
-and the Assignment 4 is to create a Tableau dashboard.
 
 The link for same is as follows:
 
